@@ -1,0 +1,1 @@
+Iris Setosa is a type of plant species my algorithm will predict the sepal width(in cm) on giving an input of sepal length(in cm) It is a basic example of simple linear regression.
